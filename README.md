@@ -31,8 +31,5 @@ También se puede copiar el contenido de cada archivo a la consola integrada de 
 - Ventas de pedidos entregados: 17.400.000.
 - Precio promedio después de la actualización: 439.000.
 
-Estos resultados dependen de no haber cambiado los registros originales, salvo la actualización indicada.
 
-## Evidencias
 
-Las capturas de la ejecución real se deben agregar por separado a la presentación académica. No se incluyen capturas simuladas.
